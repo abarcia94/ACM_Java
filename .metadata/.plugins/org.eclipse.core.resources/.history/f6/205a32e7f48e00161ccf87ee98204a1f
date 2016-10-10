@@ -6,8 +6,8 @@ public class Factorial {
 	static float factorial(float n){
 		float b=n;
 		float resultado = 1;
-		for (int c = 1; b >= c; c++){
-			resultado = resultado *c;
+		for (int c = 1; b == c; c++){
+			resultado = resultado *b;
 		}
 		/*while (b > 1){
 			resultado = resultado *b;
