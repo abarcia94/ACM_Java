@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class Factorial {
+	 public static void main(String[] ar) {
+		 System.out.println("Hola mundo");
+		 Scanner teclado=new Scanner(System.in);
+		 int a,x,num = 0;
+		 System.out.println("Ingrese un numero: ");
+		 a = teclado.nextInt();
+		for (x=a-1; x>=1 ; x--){
+			num =+ (a*x);
+			
+		}
+		System.out.println(num);
+	 }
+}

@@ -1,20 +1,3 @@
 INDEX VERSION 1.129+D:\UPM\Programacion I\ACM_Java\.metadata\.plugins\org.eclipse.jdt.core
-740276617.index
-2781568880.index
-281026454.index
-374713134.index
-2050828553.index
-2850038927.index
-779053850.index
-3376488707.index
-2019821683.index
-1353114276.index
-1778684345.index
-2462959031.index
-682005134.index
-1954944415.index
-2446032122.index
-2990071570.index
-3461085710.index
-2473241516.index
 2514841530.index
+216808960.index

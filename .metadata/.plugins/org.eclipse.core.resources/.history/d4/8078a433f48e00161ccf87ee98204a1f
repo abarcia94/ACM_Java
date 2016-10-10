@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+
+
+public class Factorial {
+	static int factorial(int n){
+		int b=n;
+		int resultado = 1;
+		while (b > 1){
+			resultado = resultado *b;
+			b--;
+		}
+		return n;
+	}
+
+	 public static void main(String[] ar) {
+		 System.out.println("Hola mundo");
+		 Scanner teclado=new Scanner(System.in);
+		 int a;
+		 System.out.println("Ingrese un numero: ");
+		 //a = teclado.nextInt();
+		 int num = factorial (5);
+		 System.out.println(num);
+	 }
+	 
+}
